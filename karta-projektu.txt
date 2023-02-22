@@ -1,0 +1,22 @@
+Karta projektu:
+
+Wizja: 
+Aplikacja webowa mająca na celu stworzyć mapę restauracji z kebabmi na danym obszarze
+
+Wartość biznesowa:
+Promowanie lokali gastronomicznych oraz możliwość zarobku na reklamach
+
+Zakres:
+Stworzenie aplikacji webowej, która będzie posiadała możliwość logowania oraz oddawania ocen lokalom.
+
+Role w projekcie:
+sponsor, project manager, front-end coder, back-end coder, tester, UI/UX designer, analityk biznesowy
+
+KPI-wskaźniki postępu:
+Ocena na przykładzie wykonania kolejnych kroków w stworzeniu aplikacji np:
+-rejestracja
+-logowanie
+-konto użytkownika
+-wyświetlenie mapy
+-możliwość oceny poszczególnych lokali
+-uruchomienie kompletnej aplikacji
