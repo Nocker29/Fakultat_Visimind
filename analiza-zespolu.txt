@@ -1,0 +1,3 @@
+czas: 600h
+cel projektu: aplikacja webowa-mapa kebabów
+role w zespole: project manager, front-end coder, back-end coder, tester, UI/UX designer, analityk biznesowy
